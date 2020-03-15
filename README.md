@@ -114,7 +114,7 @@ Vi kan se, at der står 157883 i starten af filen. Det er nok det præcise antal
 
 ### Generer spilleplade
 
-Her skal du lave et program som kan generere spilleplader. Dit program skal printe fire linjer. Hver linje skal indehold præcist fire danske bogstaver uden mellemrum. For eksempel som her:
+Her skal du lave et program som kan generere spilleplader. Dit program skal printe fire linjer. Hver linje skal bestå af præcist fire danske bogstaver uden mellemrum. For eksempel som her:
 
 ```
 $ python <programfil som laver spilleplader>.py
