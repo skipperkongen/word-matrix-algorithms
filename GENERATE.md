@@ -5,13 +5,18 @@
 Hvis du har hentet en ny ordbogsfil (see [README.md](./README.md)), så skal du køre preprocessing igen:
 
 ```
-python src/preprocess.py
+$ python src/preprocess.py
 ```
 
 Ellers kan du bare køre generator programmet sådan her:
 
 ```
-python src/generate.py
+$ python src/generate.py
+LITS
+RMKE
+GOIR
+YMAT
+Gemt ord: MIMIKER
 ```
 
 ## Beskrivelse af algoritmen
