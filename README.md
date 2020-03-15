@@ -126,3 +126,19 @@ MNOP
 
 
 > 👑 Jeg har allerede skrevet et par programmer, som kan lave tilfældige spilleplader. Du kan læse beskrivelsen af programmerne i filen [GENERATE.md](./GENERATE.md). Du er velkommen til at bruge dem som inspiration.
+
+### Spil spillet
+
+Her skal du lave et program som kan spille et 4 x 4 word matrix spil. Dit program skal indlæse en spilleplade via stdin og printe alle de ord som det kan finde på spillepladen. For eksempel som her:
+
+```
+cat spilleplade.txt | python <programfil som spiller>.py
+BLE
+LÆBE
+ÆBLE
+BLÆR
+LÆR
+LÆRE
+```
+
+TODO: angiv script til at tælle point automatisk (ide: `wc` plus lidt magi).
