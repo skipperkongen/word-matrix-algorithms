@@ -1,7 +1,23 @@
 # Program til at genere spilleplader
 
+## Kør programmet
+
+Hvis du har hentet en ny ordbogsfil (see [README.md](./README.md)), så skal du køre preprocessing igen:
+
+```
+python src/preprocess.py
+```
+
+Ellers kan du bare køre generator programmet sådan her:
+
+```
+python src/generate.py
+```
+
+## Beskrivelse af algoritmen
+
 Generator-algoritmen:
-1. vælg tilfældigt et ord på mellem 5-8 tegn fra ordbogen
+1. vælg tilfældigt et ord på mellem 8 og 12 tegn fra ordbogen
 1. placer ordet tilfældigt på spillepladen ved hjælp af placerings-algoritmen
 1. udfyld tomme felter ved at sample et bogstav fra det danske alfabet med sandsynlighed = frekvens af bogstav (se figur).
 
