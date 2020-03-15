@@ -129,7 +129,7 @@ MNOP
 
 ### Spil spillet
 
-Her skal du lave et program som kan spille et 4 x 4 word matrix spil. Dit program skal indlæse en spilleplade fra en fil og printe alle de ord som det kan finde på spillepladen. For eksempel som her:
+Her skal du lave et program som kan spille et 4 x 4 word matrix spil. Dit program skal indlæse en spilleplade fra en fil (eller stdin) og printe alle de ord som det kan finde på spillepladen. For eksempel som her:
 
 ```
 python <programfil som spiller>.py spilleplade.txt
