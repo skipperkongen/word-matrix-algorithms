@@ -38,6 +38,7 @@ y = [freqs[key] for key in keys]
 total = sum(y)
 y = [val/total for val in y]
 plt.bar(x, y)
+plt.title('Hyppighed af bogstaver på dansk')
 plt.savefig('../images/frekvenser.png')
 with open('../data/frekvenser.csv', 'w') as fo:
     fo.write(f'BOGSTAV,FREKVENS\n')

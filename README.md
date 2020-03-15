@@ -125,7 +125,7 @@ MNOP
 ```
 
 
-> 👑 Jeg har allerede skrevet et par programmer, som kan lave tilfældige spilleplader. Du kan læse beskrivelsen af programmerne i filen [GENERATE.md](./GENERATE.md). Du er velkommen til at bruge dem som inspiration.
+> 👑 Jeg har allerede skrevet et program, der laver tilfældige spilleplader. Du kan læse beskrivelsen af programmet i filen [GENERATE.md](./GENERATE.md). Du er velkommen til at bruge det som inspiration.
 
 ### Spil spillet
 
