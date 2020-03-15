@@ -117,7 +117,7 @@ Vi kan se, at der står 157883 i starten af filen. Det er nok det præcise antal
 Her skal du lave et program som kan generere spilleplader. Dit program skal printe fire linjer. Hver linje skal bestå af præcist fire danske bogstaver uden mellemrum. For eksempel som her:
 
 ```
-$ python <programfil som laver spilleplader>.py
+$ python <generator>.py
 ABCD
 EFGH
 IJKL
@@ -132,7 +132,7 @@ MNOP
 Her skal du lave et program som kan spille et 4 x 4 word matrix spil. Dit program skal indlæse en spilleplade fra en fil (eller stdin) og printe alle de ord som det kan finde på spillepladen. For eksempel som her:
 
 ```
-python <programfil som spiller>.py spilleplade.txt
+python <spiller>.py spilleplade.txt
 BLE
 LÆBE
 ÆBLE
