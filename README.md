@@ -114,9 +114,7 @@ Vi kan se, at der står 157883 i starten af filen. Det er nok det præcise antal
 
 ### Generer spilleplade
 
-Jeg har allerede skrevet et program, som kan lave tilfældige spilleplader. Den er beskrevet i filen [GENERATE.md](./GENERATE.md). Hvis du hellere vil lave dit eget program, så skal du bare overholde interfacet. Dit program skal printe fire linjer med fire bogstaver hver.
-
-Output (eksempel):
+Her skal du lave et program som kan generere spilleplader. Dit program skal printe fire linjer. Hver linje skal indehold præcist fire danske bogstaver uden mellemrum. For eksempel som her:
 
 ```
 $ python <programfil som laver spilleplader>.py
@@ -125,3 +123,6 @@ EFGH
 IJKL
 MNOP
 ```
+
+
+> 👑 Jeg har allerede skrevet et program, som kan lave tilfældige spilleplader. Du kan læse beskrivelsen af programmet i filen [GENERATE.md](./GENERATE.md).
