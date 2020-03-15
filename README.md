@@ -142,3 +142,5 @@ LÆRE
 ```
 
 TODO: angiv script til at tælle point automatisk (ide: `wc` plus lidt magi).
+
+> 👑 Jeg har allerede skrevet et program, som kan spille spillet. Du kan læse beskrivelsen af programmerne i filen [PLAY.md](./PLAY.md). Du er velkommen til at bruge det som inspiration.
