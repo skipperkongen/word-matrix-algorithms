@@ -7,6 +7,8 @@ I dette repository finder du programmer og data til at spille et 4 x 4 ordspil, 
 
 Det hjælper hvis du har en computer med Linux eller Mac, men det er dog ikke strengt nødvendigt. Vi skriver programmerne i  programmeringssproget Python og i dette dokument bruger vi et par Linux kommandoer. Mest for sjov skyld og narrestreger.
 
+Du kan læse beskrivelserne af mit [spilleplade-generator](./GENERATE.md) og min [AI spiller](./PLAY.md).
+
 ## Spillets regler
 
 Spillet foregår på en 4 x 4 spilleplade, som f.eks. kan se sådan her ud.
