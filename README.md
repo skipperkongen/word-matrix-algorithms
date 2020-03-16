@@ -59,6 +59,7 @@ Min [løsning](./PLAY.md) på udfordringen [fandt over 300 ord](./EKSEMPEL.md) p
 ├───┼───┼───┼───┤
 │ L │ U │ N │ G │
 └───┴───┴───┴───┘
+```
 
 ### Part 1: Dansk ordbog
 
