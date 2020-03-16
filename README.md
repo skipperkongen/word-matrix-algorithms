@@ -1,5 +1,8 @@
 # Word-Matrix Algoritmer
 
+> I dette repository lærer du at skrive et program som finder over 300 ord på en 4 x 4 WordBlitz spilleplade på under 1 sekund. Programmet bruger smarte data strukturer som en [Stak](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+og en [Trie](https://en.wikipedia.org/wiki/Trie).
+
 I dette repository finder du programmer og data til at spille et 4 x 4 ordspil, som minder om Facebooks *WordBlitz* spil. Ideen er at skrive en algoritme, som kan spille spillet automatisk. Vi kan også se hvor godt vi klarer os i forhold til den. Det er OK hvis du ikke kender spillet i forvejen, da reglerne er forklaret herunder.
 
 Det hjælper hvis du har en computer med Linux eller Mac, men det er dog ikke strengt nødvendigt. Vi skriver programmerne i  programmeringssproget Python og i dette dokument bruger vi et par Linux kommandoer. Mest for sjov skyld og narrestreger.
