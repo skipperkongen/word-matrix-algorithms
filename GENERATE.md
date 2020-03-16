@@ -26,7 +26,7 @@ Se også beskrivelsen af [AI spilleren](./PLAY.md).
 Generator-algoritmen:
 1. vælg tilfældigt et ord på mellem 8 og 12 tegn fra ordbogen
 1. placer ordet tilfældigt på spillepladen ved hjælp af placerings-algoritmen
-1. udfyld tomme felter ved at sample et bogstav fra det danske alfabet med sandsynlighed = frekvens af bogstav (se figur).
+1. udfyld tomme felter ved at vælge tilfældige bogstaver fra det danske alfabet med sandsynlighed der svarer til den almene frekvens af bogstavet på dansk (se figur).
 
 Placerings-algoritmen:
 
