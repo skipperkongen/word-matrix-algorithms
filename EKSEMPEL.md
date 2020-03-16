@@ -1,7 +1,11 @@
 # Eksempel
 
 Herunder kan du se alle de ord programmet fandt under en prøvekørsel.
-På cirka 1 sekund fandt programmet over 300 ord. Jeg plejer at finde cirka 20-40 ord når jeg spiller spillet.
+På cirka 1 sekund fandt programmet over 273 ord. Jeg plejer at finde cirka 20-40 ord når jeg spiller spillet.
+
+Du kan læse beskrivelserne af mit [spilleplade-generator](./GENERATE.md) og min [AI spiller](./PLAY.md).
+
+## Prøvekørsel
 
 ```
 $ python src/generate.py | python src/play.py
