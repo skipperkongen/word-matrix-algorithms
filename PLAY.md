@@ -6,7 +6,7 @@ Du bare køre programmet sådan her:
 python src/generate.py | python src/play.py
 ```
 
-Se også beskrivelsen af [generate.py](./GENERATE.md).
+Se også beskrivelsen af [spilleplade-generatoren](./GENERATE.md).
 
 ## Hvordan det virker
 

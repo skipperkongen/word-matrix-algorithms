@@ -19,7 +19,7 @@ YMAT
 Gemt ord: MIMIKER
 ```
 
-Se også beskrivelsen af [play.py](./PLAY.md).
+Se også beskrivelsen af [AI spilleren](./PLAY.md).
 
 ## Beskrivelse af algoritmen
 
