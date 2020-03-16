@@ -2,6 +2,8 @@ import os
 
 import numpy as np
 
+from lib import get_neighbors
+
 DIR = os.path.dirname(os.path.abspath(__file__))
 
 with open(f'{DIR}/../data/frekvenser.csv') as fi:
@@ -17,15 +19,6 @@ def select_word(min_len=6, max_len=11):
         words = [word for word in lines if len(word) >= min_len and len(word) <= max_len]
         return np.random.choice(words)
 
-def get_neighbors(x, y, maxval=3):
-    ns = []
-    for dx in [-1,0,1]:
-        for dy in [-1,0,1]:
-            nx = max(0, min(maxval, x + dx))
-            ny = max(0, min(maxval, y + dy))
-            if (nx,ny) != (x,y):
-                ns.append((nx, ny))
-    return set(ns)
 
 def place_word(n):
     used = set()
@@ -36,6 +29,7 @@ def place_word(n):
         ns = get_neighbors(x,y).difference(used)
         assert(len(ns)>0)
         x,y = list(ns)[np.random.choice(len(ns))]
+
 
 random_word = select_word(min_len=5, max_len=8)
 placed = False

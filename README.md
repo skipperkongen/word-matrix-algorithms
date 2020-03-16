@@ -49,7 +49,7 @@ Udfordringen består i at finde noget data og skrive et par programmer:
 
 Før vi kan gå igang skal vi lige have styr på nogle ting, som f.eks. at have en ordbog over danske ord, hvilket vi gennemgår i næste afsnit.
 
-### Dansk ordbog
+### Part 1: Dansk ordbog
 
 Grundlaget for hele spillet er en ordbog med danske ord, så den skal vi have først. Uden en ordbog kan vi ikke tjekke at de ord vi finder er rigtige danske ord. F.eks. er de fleste enige om at ZGRTRAMC ikke et rigtigt ord på dansk, så man skal selvfølgeligt ikke have point for det.
 
@@ -112,7 +112,7 @@ vidnefastes
 
 Vi kan se, at der står 157883 i starten af filen. Det er nok det præcise antal ord i ordbogen. Hvis man åbner hele filen, kan man faktisk se en del tomme linjer, hvilket forklarer hvorfor antal linjer og antal ord er forskelligt.
 
-### Generer spilleplade
+### Part 2: Generer spilleplade
 
 Her skal du lave et program som kan generere spilleplader. Dit program skal printe fire linjer. Hver linje skal bestå af præcist fire danske bogstaver uden mellemrum. For eksempel som her:
 
@@ -127,7 +127,7 @@ MNOP
 
 > 👑 Jeg har allerede skrevet et program, der laver tilfældige spilleplader. Du kan læse beskrivelsen af programmet i filen [GENERATE.md](./GENERATE.md). Du er velkommen til at bruge det som inspiration.
 
-### Spil spillet
+### Part 3: Spil spillet
 
 Her skal du lave et program som kan spille et 4 x 4 word matrix spil. Dit program skal indlæse en spilleplade fra en fil (eller stdin) og printe alle de ord som det kan finde på spillepladen. For eksempel som her:
 
