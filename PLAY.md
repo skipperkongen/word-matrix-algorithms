@@ -35,3 +35,5 @@ Dernæst undersøges det om ordet kunne være starten på et større ord ved at 
 De nabofelter som både er ubesøgte og som udgør starten på et større ord (det er her vi bruger Trie'en) knyttes i enden af det ord vi udlæste fra stakken og skubbes tilbage på stakken.
 
 Programmet fortsætter indtil der ikke er flere elementer på stakken.
+
+Du kan også læse om [resultatet af en prøvekørsel](./EKSEMPEL.md), som fandt 273 ord på en 4 x 4 spilleplade.
