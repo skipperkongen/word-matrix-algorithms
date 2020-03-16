@@ -67,7 +67,7 @@ def main():
     # Read board from stdin or file
     board = ''.join([line.strip() for i, line in enumerate(fileinput.input()) if i < 4])
 
-    for word in search(board):
+    for word in set(search(board)):
         print(word)
 
 
