@@ -6,6 +6,8 @@ Du bare køre programmet sådan her:
 python src/generate.py | python src/play.py
 ```
 
+Se også beskrivelsen af [generate.py](./GENERATE.md).
+
 ## Hvordan det virker
 
 Programmet er baseret på to smarte datastrukturer, som dataloger kalder for

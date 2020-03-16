@@ -47,7 +47,18 @@ Udfordringen består i at finde noget data og skrive et par programmer:
 - **Skriv program 1**: genererer tilfældige spilleplader, som er sjove at spille på; den skal f.eks. indeholde mange danske ord; der skal også være både korte og lange ord.
 - **Skriv program 2**: finder automatisk så mange ord som muligt på en spilleplade.
 
-Før vi kan gå igang skal vi lige have styr på nogle ting, som f.eks. at have en ordbog over danske ord, hvilket vi gennemgår i næste afsnit.
+Min [løsning](./PLAY.md) på udfordringen [fandt over 300 ord](./EKSEMPEL.md) på følgende spilleplade og det tog cirka 1 sekund!
+
+```
+┌───┬───┬───┬───┐
+│ S │ P │ F │ R │
+├───┼───┼───┼───┤
+│ G │ A │ V │ E │
+├───┼───┼───┼───┤
+│ M │ E │ D │ A │
+├───┼───┼───┼───┤
+│ L │ U │ N │ G │
+└───┴───┴───┴───┘
 
 ### Part 1: Dansk ordbog
 

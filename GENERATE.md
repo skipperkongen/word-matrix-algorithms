@@ -19,6 +19,8 @@ YMAT
 Gemt ord: MIMIKER
 ```
 
+Se også beskrivelsen af [play.py](./PLAY.md).
+
 ## Beskrivelse af algoritmen
 
 Generator-algoritmen:
