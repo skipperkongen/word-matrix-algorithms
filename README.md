@@ -35,6 +35,8 @@ Du kan se 4 rækker og 4 søjler med bogstaver. Spillet går ud på at finde så
 
 På ovenstående spilleplade kan du f.eks. finde orderne DØR, ARM, ARME, BRED, BRØD, BØDE, SPID, SPIR, SPIRE, SPIRER og SPIRRE? Kan du finde dem allesammen og måske endnu flere?
 
+> 👑 Programmet finder 126 ord på pladen. Dovenskaben længe leve!
+
 ### Point-tælling
 
 Du får point for hvert bogstav der indgår i et ord du fandt. I en mere avanceret udgave får du flere point for sjældne bogstaver som X, Z og Q, men det er ikke nødvendigt her.

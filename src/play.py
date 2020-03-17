@@ -68,9 +68,8 @@ def main():
     board = ''.join([line.strip() for i, line in enumerate(fileinput.input()) if i < 4])
 
     for word in set(search(board)):
-        print(word)
-
-
+        if len(word) > 1:
+            print(word)
 
 if __name__=='__main__':
     main()
