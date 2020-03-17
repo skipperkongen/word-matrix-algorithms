@@ -39,7 +39,7 @@ På ovenstående spilleplade kan du f.eks. finde ordene DØR, ARM, ARME, BRED, B
 
 ### Point-tælling
 
-Du får point for hvert bogstav der indgår i et ord du fandt. I en mere avanceret udgave får du flere point for sjældne bogstaver som X, Z og Q, men det er ikke nødvendigt her.
+Du får point for hvert bogstav der indgår i et ord du fandt. I en mere avanceret udgave får du flere point for sjældne bogstaver som X, Z og Q, men det er ikke nødvendigt her. Du kan på [hyppighedsdiagrammet](./images/frekvenser.png) se hvor almindeligt/sjældent et bogstav forekommer på dansk.
 
 > 👑 *Simplificering:* For at holde det simpelt giver alle bogstaver 1 point. Dovenskaben længe leve!
 
