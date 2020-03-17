@@ -33,7 +33,7 @@ Du kan se 4 rækker og 4 søjler med bogstaver. Spillet går ud på at finde så
 1. Hver celle må kun bruges én gang per ord. Derfor kan du højst finde ord på 16 bogstaver (usandsynligt at du finder så et langt ord).
 1. Hvis du har fundet et ord, starter du forfra fra trin 1. Gentag indtil du ikke kan finde flere ord og husk de ord du fandt.
 
-På ovenstående spilleplade kan du f.eks. finde orderne DØR, ARM, ARME, BRED, BRØD, BØDE, SPID, SPIR, SPIRE, SPIRER og SPIRRE? Kan du finde dem allesammen og måske endnu flere?
+På ovenstående spilleplade kan du f.eks. finde ordene DØR, ARM, ARME, BRED, BRØD, BØDE, SPID, SPIR, SPIRE, SPIRER og SPIRRE? Kan du finde dem allesammen og måske endnu flere?
 
 > 👑 Programmet finder 126 ord på pladen. Dovenskaben længe leve!
 
