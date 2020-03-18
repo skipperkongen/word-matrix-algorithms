@@ -66,10 +66,11 @@ def main():
 
     # Read board from stdin or file
     board = ''.join([line.strip() for i, line in enumerate(fileinput.input()) if i < 4])
+    assert(len(board) == 16)
+    print('Read board:', board)
 
-    for word in set(search(board)):
-        if len(word) > 1:
-            print(word)
+    words = [word for word in set(search(board)) if len(word) > 1]
+    print(words)
 
 if __name__=='__main__':
     main()

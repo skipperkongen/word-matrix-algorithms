@@ -9,6 +9,12 @@ Det hjælper hvis du har en computer med Linux eller Mac, men det er dog ikke st
 
 Du kan læse beskrivelserne af mit [spilleplade-generator](./GENERATE.md) og min [AI spiller](./PLAY.md).
 
+Den utålmodige kan prøve med det samme:
+
+```
+python src/generate.py | python src/play.py
+```
+
 ## Spillets regler
 
 Spillet foregår på en 4 x 4 spilleplade, som f.eks. kan se sådan her ud.
